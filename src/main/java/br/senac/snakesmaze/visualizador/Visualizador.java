@@ -1,6 +1,6 @@
-package br.senac.micromouse.visualizador;
+package br.senac.snakesmaze.visualizador;
 
-import br.senac.micromouse.labirinto.Labirinto;
+import br.senac.snakesmaze.labirinto.Labirinto;
 
 /**
  * Responsável por imprimir o labirinto no console.

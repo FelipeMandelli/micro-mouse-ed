@@ -1,8 +1,8 @@
-package br.senac.micromouse.integracao;
+package br.senac.snakesmaze.integracao;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Simulador Micro Mouse iniciado!");
+        System.out.println("Simulador Snakes Maze iniciado!");
         // TODO: Iniciar simulação
     }
 }

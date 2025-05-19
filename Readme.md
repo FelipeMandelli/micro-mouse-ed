@@ -1,6 +1,6 @@
-# 🐭 Micro Mouse ED
+# 🐭 Snakes Maze ED
 
-Simulador de um robô autônomo que explora um labirinto, mapeia obstáculos e encontra o melhor caminho entre o ponto de partida e a saída, baseado na competição Micro Mouse.
+Simulador de um robô autônomo que explora um labirinto, mapeia obstáculos e encontra o melhor caminho entre o ponto de partida e a saída, baseado na competição Snakes Maze.
 
 ## 🎯 Objetivo
 
@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados**
 ## 🗂️ Estrutura de Pacotes
 
 ```
-src/main/java/br/senac/micromouse/
+src/main/java/br/senac/snakesmaze/
 ├── labirinto/         # Representação da matriz do labirinto
 ├── robo/              # Comportamento do robô e movimentação
 ├── mapeamento/        # Armazenamento do que foi descoberto
@@ -50,7 +50,7 @@ src/main/java/br/senac/micromouse/
 mvn compile
 
 # Execute o projeto
-mvn exec:java -Dexec.mainClass="br.senac.micromouse.integracao.Main"
+mvn exec:java -Dexec.mainClass="br.senac.snakesmaze.integracao.Main"
 ```
 
 ---

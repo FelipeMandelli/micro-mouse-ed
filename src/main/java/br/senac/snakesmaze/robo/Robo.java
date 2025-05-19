@@ -1,4 +1,4 @@
-package br.senac.micromouse.robo;
+package br.senac.snakesmaze.robo;
 
 /**
  * Representa o robô que irá explorar o labirinto.

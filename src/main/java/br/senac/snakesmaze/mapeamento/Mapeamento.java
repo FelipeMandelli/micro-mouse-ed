@@ -1,4 +1,4 @@
-package br.senac.micromouse.mapeamento;
+package br.senac.snakesmaze.mapeamento;
 
 import java.util.HashMap;
 import java.util.Map;

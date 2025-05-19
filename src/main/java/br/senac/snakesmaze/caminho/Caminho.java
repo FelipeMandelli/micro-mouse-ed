@@ -1,4 +1,4 @@
-package br.senac.micromouse.caminho;
+package br.senac.snakesmaze.caminho;
 
 import java.util.List;
 
