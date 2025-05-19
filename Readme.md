@@ -1,4 +1,4 @@
-# 🐭 Snakes Maze ED
+# 🐍 Snakes Maze ED
 
 Simulador de um robô autônomo que explora um labirinto, mapeia obstáculos e encontra o melhor caminho entre o ponto de partida e a saída, baseado na competição Snakes Maze.
 
