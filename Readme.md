@@ -1,10 +1,10 @@
 # 🐍 Snakes Maze ED
 
-Simulador de um robô autônomo que explora um labirinto, mapeia obstáculos e encontra o melhor caminho entre o ponto de partida e a saída, baseado na competição Snakes Maze.
+Simulador de um robô autônomo que explora um labirinto, mapeia obstáculos e encontra o melhor caminho entre o ponto de partida e a saída.
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados** no curso de Engenharia da Computação (Centro Universitário SENAC, 2025/1). O foco principal é aplicar conceitos de estruturas de dados, algoritmos de grafos e programação orientada a objetos em Java.
+Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados** no curso de Engenharia da Computação (Centro Universitário SENAC, 2025/1). O foco principal é aplicar conceitos de estruturas de dados, listas e algoritmos de grafos em Java.
 
 ---
 
@@ -21,14 +21,14 @@ Este projeto foi desenvolvido como parte da disciplina de **Estrutura de Dados**
 
 ## 🗂️ Estrutura de Pacotes
 
-```
+``` sh
 src/main/java/br/senac/snakesmaze/
-├── labirinto/         # Representação da matriz do labirinto
-├── robo/              # Comportamento do robô e movimentação
-├── mapeamento/        # Armazenamento do que foi descoberto
 ├── caminho/           # Algoritmos para encontrar o caminho ótimo
-├── visualizacao/      # Impressão/visualização do labirinto
-└── integracao/        # Classe Main e orquestração da aplicação
+├── integracao/        # Classe Main e orquestração da aplicação
+├── labirinto/         # Representação da matriz do labirinto
+├── mapeamento/        # Armazenamento do que foi descoberto
+├── robo/              # Comportamento do robô e movimentação
+└── visualizacao/      # Impressão/visualização do labirinto
 ```
 
 ---
